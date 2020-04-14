@@ -1,2 +1,3 @@
 # Reflection
  
+Xem slide.pdf
